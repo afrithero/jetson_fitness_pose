@@ -1,0 +1,14 @@
+# Python
+__pycache__/
+
+# Data
+data/
+
+# YOLO model
+model/
+
+# Output
+output/
+
+# Smoke test
+smoke_test.py
